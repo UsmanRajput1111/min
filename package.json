@@ -1,0 +1,13 @@
+{
+  "name": "usman-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard website by Usman Rajput",
+  "scripts": {
+    "start": "npx http-server -p 3000 -o",
+    "dev": "npx http-server -p 3000 -o"
+  },
+  "keywords": ["dashboard", "website"],
+  "author": "Usman Rajput",
+  "license": "ISC"
+}
+
